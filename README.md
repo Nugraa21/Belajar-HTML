@@ -815,13 +815,15 @@ input[type=radio]{
 
             <label>Alamat :</label>
             <input type="text" name="lalamat" id="lalamat" />
-<!-- ================ LATIHAN PERTEMUAN5 =============== --> <p class="penanda">=== Latihan pertemuan 5 ===</p>
+<!-- ================ LATIHAN PERTEMUAN5 =============== -->
+<p class="penanda">=== Latihan pertemuan 5 ===</p>
             <label>Nomor HP :</label>
             <input type="text" name="nomor_hp" id="nomor_hp" />
 
             <label>Tanggal Lahir :</label>
             <input type="date" name="tanggal_lahir" id="tanggal_lahir" />
-<!-- ================ PRAKTEK PERTEMUAN 6 =============== --><p class="penanda">=== Praktek pertemuan 6 ===</p>
+<!-- ================ PRAKTEK PERTEMUAN 6 =============== -->
+<p class="penanda">=== Praktek pertemuan 6 ===</p>
             <p>
                 <label>Jenis Kelamin</label> <br>
                     <input type="radio" name="jel" value="Laki-laki">Laki-Laki <br>
@@ -838,7 +840,8 @@ input[type=radio]{
                     </select>
             </p>
             <p>
-            <label>Hobi</label> <br> <!-- Pada baris saya beri BR agar tampilan turun -->
+            <label>Hobi</label> <br>
+            <!-- Pada baris saya beri BR agar tampilan turun -->
                 <input type="checkbox" name="cekhobi[]" value="disain web">
                     <label for="cekSing">Disainer web</label> <br>
                 <input type="checkbox" name="cekhobi[]" value="editor vido">
@@ -1693,7 +1696,8 @@ function myFunction() {
     </script>
 </head>
 <body>
-    <form name="myform" action="#" onsubmit="return validateForm()" method="POST">
+    <form name="myform" action="#" onsubmit="
+    return validateForm()" method="POST">
         Nama :
         <input type="text" name="nama">
         <br>
@@ -1720,7 +1724,11 @@ function myFunction() {
             var Telepon = document.forms["myForm"]["nomorhp"].value;
             var Kelamin = document.forms["myForm"]["JKelamin"].value;
 
-            if (nama === "" || Alamat === "" || Email === "" || Telepon === "" || Kelamin === "") {
+            if (nama === "" ||
+            Alamat === "" ||
+            Email === "" ||
+            Telepon === "" ||
+            Kelamin === "") {
                 alert("Masukkan semua informasi");
                 return false;
             }
@@ -1728,7 +1736,8 @@ function myFunction() {
     </script>
 </head>
 <body>
-    <form name="myForm" action="#" onsubmit="return validateForm()" method="post">
+    <form name="myForm" action="#" onsubmit="
+    return validateForm()" method="post">
         Name:
         <br>
         <input type="text" name="fname">
@@ -1770,7 +1779,11 @@ Php extensen
             var Telepon = document.forms["myForm"]["nomorhp"].value;
             var Kelamin = document.forms["myForm"]["JKelamin"].value;
 
-            if (nama === "" || Alamat === "" || Email === "" || Telepon === "" || Kelamin === "") {
+            if (nama === "" ||
+            Alamat === "" ||
+            Email === "" ||
+            Telepon === "" ||
+            Kelamin === "") {
                 alert("Masukkan semua informasi");
                 return false;
             }
@@ -1778,7 +1791,8 @@ Php extensen
     </script>
 </head>
 <body>
-    <form name="myForm" action="process_form.php" onsubmit="return validateForm()" method="post">
+    <form name="myForm" action="process_form.php
+    " onsubmit="return validateForm()" method="post">
         Name:
         <br>
         <input type="text" name="fname">
@@ -2029,6 +2043,205 @@ header,section,footer,aside,nav,article,figure,figcaption{
 </body>
 </html>
 
+```
+
+Hasil dari Studi kasus
+
+```bash
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        header,section,footer,aside,nav,article,figure,figcaption{
+    display: block;
+}
+    body{
+        color: #666666;
+        background-color: #ffaa00;
+        background-image: url();
+        background-position: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        line-height: 1.4em;
+        margin: 0px;
+    }
+    /* wraper */
+    .wrapper{
+        width: 1030px;
+        margin: 20px auto 20px auto;
+        border: 2px solid #000000;
+        background-color: #ffffff;
+    }
+    header{
+        /* height: 160px; */
+        background-image: url();
+        background-color: #5f5f5f;
+    }
+    h1{
+        /* text-indent: -9999px; */
+        padding: 30px;
+        /* height: 130px; */
+        margin: 0px;
+        color: white;
+    }
+    nav , footer{
+        clear: both;
+        color: #ffffff;
+        background-color: #acacac;
+        height: 30px;
+    }
+    nav ul {
+        margin: 0px;
+        padding:5px 0px 5px 30px ;
+        height: 30px;
+    }
+    nav li {
+        display: inline;
+        margin-right: 40px;
+    }
+    nav li a {
+        color: #ffffff;
+    }
+    nav li a:hover,
+    nav li a.corremt
+    {
+        color: #000000;
+    }
+    section{
+        padding: 10px;
+        float: left;
+        width: 659px;
+        height: 300px;
+        border-left: 5px solid #eeeeee;
+    }
+    /* Bagian white pada srticle kecil  */
+    article{
+        clear: both;
+        overflow: auto;
+        /* width: 4px; */
+    }
+    hgroup{
+        margin-top: 40px;
+    }
+    figure{
+        float: left;
+        width: 290px;
+        height:200px ;
+        margin:20px ;
+        padding:10px ;
+        border: 3px solid #eeeeee;
+    }
+    figcaption{
+        padding: 9px;
+        font-size: 100%;
+        text-align: left;
+    }
+    aside{
+        width: 230px;
+        float: left;
+        padding: 0px 0px 0px 20px ;
+    }
+    /* Bagian kanan kontak */
+    aside section a{
+        width: 200px;
+        display: block;
+        padding: 10px;
+        border-bottom: 1px solid #d6d6d6;
+    }
+    aside section a:hover{
+        color: #985d6a;
+    }
+    a {
+        color: #de6581;
+        text-decoration: none;
+    }
+    h1,
+    h2,
+    h3
+    {
+        font-weight: normal;
+    }
+    h2{
+        margin: 10px 0px 5px 0px;
+        color: #de6581;
+    }
+    h3{
+        padding: 30px 0px 10px 0px;
+        color: #de6581;
+    }
+    footer{
+        font-size: 80%;
+        padding:7px 0px 0px 20px ;
+    }
+
+    /* =========== */
+
+    </style>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ludang-225510017</title>
+</head>
+
+<body>
+    <div class="wrapper">
+        <header>
+            <h1>Ludang shoop</h1>
+            <h1>Warung makan enak</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Beranda</a></li>
+                    <li><a href="#">kuliner</a></li>
+                    <li><a href="#">Toko oleh-oleh</a></li>
+                    <li><a href="#">Tentang</a></li>
+                    <li><a href="#">Kontak</a></li>
+                </ul>
+            </nav>
+        </header>
+        <section class="utama">
+            <article>
+                <figure>
+                    <img src="Praktek/Screenshot 2023-12-02 144558.png" alt="">
+                    <figcaption>Gudeg basah</figcaption>
+                </figure>
+                <hgroup>
+                    <h2>Gudeg basah</h2>
+                    <h3>Makanan dari nagka muda</h3>
+                </hgroup>
+                <p>dari nagka muda dan santan yang kental</p>
+            </article>
+            <article>
+                <figure>
+                    <img src="Praktek/Screenshot 2023-12-02 144558.png" alt="">
+                    <figcaption>Sate klatak</figcaption>
+                </figure>
+                <hgroup>
+                <h2>Sate klatak</h2>
+                <h3>Sate dengan kuah gulai</h3>
+                </hgroup>
+                <p>Sate kambing bakar tanpa kecap hanya bawang putih dan garam di sertai kuah dari masakan gulai</p>
+            </article>
+        </section>
+        <aside>
+            <section class="popular-recipes">
+                <h2>Kuliber popular</h2>
+                <a href="#">Kopi jus</a>
+                <a href="#">Jeruk ES</a>
+                <a href="#">Nasi uduk palagan</a>
+                <a href="#">Loko cafe</a>
+            </section>
+            <section class="contact-details">
+                <h2>Kontak</h2>
+                <p>Kuliner Yogyakarta <br>
+                     WA : 0857 4099 3730</p>
+            </section>
+        </aside>
+        <footer>
+            &copy; 2023 Pusat Kuliner Yogyakarta
+        </footer>
+    </div>
+</body>
+
+</html>
 ```
 
 # Pertemuan 14
