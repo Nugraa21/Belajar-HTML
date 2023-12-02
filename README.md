@@ -1,5 +1,6 @@
 - [Github](https://github.com/Nugraa21/Belajar-HTML)
 - [Share LINK](https://nugraa21.github.io/Belajar-HTML/)
+- [WEB.PDF](WEB.PDF) < --- Download WEB dalam bentuk PDF
 
 ## menu
 
@@ -80,7 +81,12 @@ di sini saya mengumpulkan semua modul praktikum Web clayen saya selama 1 semeste
 
 - [Kembali ke atas](#menu)
 
-## praktek
+## praktek 1
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan1_p1.png)
+
+code program
 
 ```bash
 
@@ -97,6 +103,13 @@ di sini saya mengumpulkan semua modul praktikum Web clayen saya selama 1 semeste
 </html>
 
 ```
+
+## praktek 2
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan1_p2.png)
+
+code program
 
 ```bash
 
@@ -126,7 +139,12 @@ di sini saya mengumpulkan semua modul praktikum Web clayen saya selama 1 semeste
 
 - [Kembali ke atas](#menu)
 
-## praktek
+## praktek 1
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan2_p2.png)
+
+code program
 
 ```bash
 <!DOCTYPE html>
@@ -171,6 +189,13 @@ di sini saya mengumpulkan semua modul praktikum Web clayen saya selama 1 semeste
 
 ```
 
+## praktek 2
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan2_p1.png)
+
+code program
+
 ```bash
 <!DOCTYPE html>
 <html lang="en">
@@ -204,6 +229,35 @@ di sini saya mengumpulkan semua modul praktikum Web clayen saya selama 1 semeste
 </html>
 ```
 
+## praktek 3
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan2_p4.png)
+
+code program
+
+```bash
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Html Locall LINK</h2>
+    <A href="../PRAKTIKUM 3/HOME.html">Kunjungi Kampus kami !! </A>
+</body>
+</html>
+```
+
+## Latihan
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan2_p3.png)
+
+code program
+
 ```bash
 <!DOCTYPE html>
 <html lang="en">
@@ -234,28 +288,18 @@ di sini saya mengumpulkan semua modul praktikum Web clayen saya selama 1 semeste
 <!---->
 ```
 
-```bash
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h2>Html Locall LINK</h2>
-    <A href="../PRAKTIKUM 3/HOME.html">Kunjungi Kampus kami !! </A>
-</body>
-</html>
-```
-
 <h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
 
 ## Pertemuan3
 
 - [Kembali ke atas](#menu)
 
-## praktek
+## praktek 1
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan3_p1.png)
+
+code program
 
 ```bash
 <!DOCTYPE html>
@@ -297,6 +341,13 @@ di sini saya mengumpulkan semua modul praktikum Web clayen saya selama 1 semeste
 
 ```
 
+## praktek 2
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan3_p2.png)
+
+code program
+
 ```bash
 <!DOCTYPE html>
 <html lang="en">
@@ -316,6 +367,13 @@ di sini saya mengumpulkan semua modul praktikum Web clayen saya selama 1 semeste
 
 ```
 
+## praktek 3
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan3_p3.png)
+
+code program
+
 ```bash
 
 <!DOCTYPE html>
@@ -332,6 +390,13 @@ di sini saya mengumpulkan semua modul praktikum Web clayen saya selama 1 semeste
 </body>
 </html>
 ```
+
+## praktek 4
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan3_p4.png)
+
+code program
 
 ```bash
 <!DOCTYPE html>
@@ -355,6 +420,13 @@ di sini saya mengumpulkan semua modul praktikum Web clayen saya selama 1 semeste
 </html>
 
 ```
+
+## praktek 5
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan3_p5.png)
+
+code program
 
 ```bash
 
@@ -388,7 +460,12 @@ di sini saya mengumpulkan semua modul praktikum Web clayen saya selama 1 semeste
 
 - [Kembali ke atas](#menu)
 
-## praktek
+## praktek 1
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan4_p1.png)
+
+code program HTML DAN CSS YANG TERPISAH
 
 Praktek HTML
 
@@ -536,6 +613,11 @@ body {
 
 ## praktek ( PHP )
 
+> Keluaran program saat di jalankan
+> ![](img/pertemuan5_p1.png)
+
+code program
+
 > indext.Php
 
 ```bash
@@ -589,6 +671,11 @@ if(isset($_GET['fnama']))
 ```
 
 ## Latihan PHP
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan5_p2.png)
+
+code program
 
 ```bash
 <!DOCTYPE html>
@@ -691,13 +778,18 @@ input[type=text]{
 
 <h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
 
-## Pertemuan6(
+## Pertemuan6
 
 - [Kembali ke atas](#menu)
 
 ## praktek ( PHP )
 
 > indext.Php melanjutkan Pertemuan 6
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan6_p1.png)
+
+code program
 
 ```bash
 
@@ -844,6 +936,11 @@ input[type=radio]{
 ```
 
 ## Latihan PHP
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan6_p2.png)
+
+code program
 
 ```bash
 <!DOCTYPE html>
@@ -1056,7 +1153,12 @@ th{
 
 ```
 
-> praktek1.html
+## Latihan PHP
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan7_p1.png)
+
+code program
 
 ```bash
 <!DOCTYPE html>
@@ -1118,6 +1220,13 @@ th{
 
 ```
 
+## Praktek 2
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan7_p2.png)
+
+code program
+
 ```bash
 
 <!DOCTYPE html>
@@ -1141,6 +1250,13 @@ th{
 </body>
 </html>
 ```
+
+## Praktek 3
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan7_p3.png)
+
+code program
 
 ```bash
 <!DOCTYPE html>
@@ -1167,19 +1283,6 @@ th{
 </body>
 </html>
 
-
-```
-
-```bash
-<!DOCTYPE html>
-<html>
-<head>
-    <title>225510017</title>
-</head>
-<body>
-    <link rel="stylesheet" href="atribut.css">
-</body>
-</html>
 
 ```
 
@@ -1243,6 +1346,13 @@ th{
 
 ## praktek ( Java scripts )
 
+## Praktek 1
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan9_p1.png)
+
+code program
+
 ```bash
 <!DOCTYPE html>
 <html>
@@ -1262,6 +1372,13 @@ th{
 </html>
 
 ```
+
+## Praktek 2
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan9_p2.png)
+
+code program
 
 ```bash
 
@@ -1286,6 +1403,13 @@ function myFunction() {
 
 ```
 
+## Praktek 3
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan9_p3.png)
+
+code program
+
 ```bash
 
 <!DOCTYPE html>
@@ -1302,6 +1426,13 @@ function myFunction() {
 </body>
 </html>
 ```
+
+## Praktek 4
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan9_p4.png)
+
+code program
 
 ```bash
 <!DOCTYPE html>
@@ -1320,6 +1451,13 @@ function myFunction() {
 
 
 ```
+
+## Praktek 5
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan9_p5.png)
+
+code program
 
 ```bash
 
@@ -1347,7 +1485,12 @@ function myFunction() {
 
 ```
 
-> Latihan
+## Latihan
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan9_p6.png)
+
+code program
 
 ```bash
 <!DOCTYPE html>
@@ -1366,6 +1509,13 @@ function myFunction() {
 </html>
 
 ```
+
+## Latihan
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan9_p7.png)
+
+code program
 
 ```bash
 
@@ -2120,6 +2270,13 @@ header,section,footer,aside,nav,article,figure,figcaption{
 </html>
 
 ```
+
+## Latihan
+
+> Keluaran program saat di jalankan
+> ![](img/pertemuan13_p1.png)
+
+code program
 
 Hasil dari Studi kasus
 
