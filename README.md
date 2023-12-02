@@ -1,9 +1,30 @@
-# Belajar-HTML
+## menu
+
+> Klick untuk menuju ke contoh kode program yang sudah saya sediakan
+
+> Lalu bila ingin ke atas klick ( kembali ke atas )
+
+- [pertemuan 1](#pertemuan1)
+- [pertemuan 2](#pertemuan2)
+- [pertemuan 3](#pertemuan3)
+- [pertemuan 4](#pertemuan4)
+- [pertemuan 5](#pertemuan5)
+- [pertemuan 6](#pertemuan6)
+- [pertemuan 7](#pertemuan7)
+- [pertemuan 8](#pertemuan8)
+- [pertemuan 9](#pertemuan9)
+- [pertemuan 10](#pertemuan10)
+- [pertemuan 11](#pertemuan11)
+- [pertemuan 12](#pertemuan12)
+- [pertemuan 13](#pertemuan13)
+- [pertemuan 14](#pertemuan14)
+
+##
+
+<h1 align="center">Modul belajar HTML CSS JS & PHP</h1>
 
 Kumpulam Modul Belaar Web programing untuk pemula
 di sini saya mengumpulkan semua modul praktikum Web clayen saya selama 1 semester
-
-<h1 align="center"></h1>
 
 > [Praktikum 1](<https://nugraa21.github.io/Belajar-HTML/PERTEMUAN%201/7-1-2019-09-07_03_47_02_LINGKUNGAN%20KERJA%20PEMBUATAN%20WEB%20(1).pdf>)
 > HTML Dasar
@@ -50,7 +71,11 @@ di sini saya mengumpulkan semua modul praktikum Web clayen saya selama 1 semeste
 <h1 align="center"></h1>
 <h1 align="center"> Code program </h1>
 
-# Pertemuan 1
+<h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
+
+- [Kembali ke atas](#menu)
+
+## Pertemuan1
 
 ## praktek
 
@@ -92,7 +117,11 @@ di sini saya mengumpulkan semua modul praktikum Web clayen saya selama 1 semeste
 </html>
 ```
 
-# Pertemuan 2
+<h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
+
+- [Kembali ke atas](#menu)
+
+## Pertemuan2
 
 ## praktek
 
@@ -217,7 +246,11 @@ di sini saya mengumpulkan semua modul praktikum Web clayen saya selama 1 semeste
 </html>
 ```
 
-# Pertemuan 3
+<h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
+
+- [Kembali ke atas](#menu)
+
+## Pertemuan3
 
 ## praktek
 
@@ -346,7 +379,11 @@ di sini saya mengumpulkan semua modul praktikum Web clayen saya selama 1 semeste
 </html>
 ```
 
-# Pertemuan 4
+<h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
+
+- [Kembali ke atas](#menu)
+
+## Pertemuan4
 
 ## praktek
 
@@ -488,9 +525,13 @@ body {
 
 ```
 
-# Pertemuan 5 ( PHP )
+<h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
 
-## praktek
+- [Kembali ke atas](#menu)
+
+## Pertemuan5
+
+## praktek ( PHP )
 
 > indext.Php
 
@@ -645,9 +686,13 @@ input[type=text]{
 }
 ```
 
-# Pertemuan 6( PHP )
+<h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
 
-## praktek
+- [Kembali ke atas](#menu)
+
+## Pertemuan6(
+
+## praktek ( PHP )
 
 > indext.Php melanjutkan Pertemuan 6
 
@@ -975,9 +1020,13 @@ input[type=submit]:hover {
 
 ```
 
-# Pertemuan 7 ( Tabel dan Bentuk border )
+<h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
 
-## praktek
+- [Kembali ke atas](#menu)
+
+## Pertemuan7
+
+## praktek ( Tabel dan Bentuk border )
 
 > Praktek css untuk praktek1
 
@@ -1131,9 +1180,13 @@ th{
 
 ```
 
-# Pertemuan 8 ( Media Audio , Video )
+<h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
 
-## praktek
+- [Kembali ke atas](#menu)
+
+## Pertemuan8
+
+## praktek ( Media Audio , Video )
 
 > menambahkan audio pada html
 
@@ -1179,9 +1232,13 @@ th{
 </html>
 ```
 
-# Pertemuan 9 ( Java scripts )
+<h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
 
-## praktek
+- [Kembali ke atas](#menu)
+
+## Pertemuan9
+
+## praktek ( Java scripts )
 
 ```bash
 <!DOCTYPE html>
@@ -1331,9 +1388,13 @@ function myFunction() {
 
 ```
 
-# Pertemuan 10 ( Java scripts )
+<h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
 
-## praktek
+- [Kembali ke atas](#menu)
+
+## Pertemuan10
+
+## praktek ( Java scripts )
 
 ```bash
 <!DOCTYPE html>
@@ -1521,9 +1582,13 @@ function myFunction() {
 
 ```
 
-# Pertemuan 11 ( Java scripts ) DOM
+<h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
 
-## praktek
+- [Kembali ke atas](#menu)
+
+## Pertemuan11
+
+## praktek ( Java scripts ) DOM
 
 ```bash
 
@@ -1850,7 +1915,11 @@ Php extensen
 
 ```
 
-# Pertemuan 12
+<h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
+
+- [Kembali ke atas](#menu)
+
+## Pertemuan12
 
 ## praktek
 
@@ -1973,7 +2042,11 @@ header,section,footer,aside,nav,article,figure,figcaption{
 
 ```
 
-# Pertemuan 13
+<h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
+
+- [Kembali ke atas](#menu)
+
+## Pertemuan13
 
 ## praktek
 
@@ -2244,7 +2317,11 @@ Hasil dari Studi kasus
 </html>
 ```
 
-# Pertemuan 14
+<h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
+
+- [Kembali ke atas](#menu)
+
+## Pertemuan14
 
 ## praktek
 
