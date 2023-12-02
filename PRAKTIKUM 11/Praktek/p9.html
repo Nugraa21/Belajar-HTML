@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ludang-225510017</title>
+
+    <script>
+        function validateForm() {
+            var x = document.forms["myform"]["nama"].value;
+            if (x == "") {
+                alert("masukan nama anda")
+                return false;
+            }
+        }
+    </script>
+</head>
+<body>
+    <form name="myform" action="#" onsubmit="return validateForm()" method="POST">
+        Nama :
+        <input type="text" name="nama">
+        <br>
+        <input type="submit" value="submit">
+    </form>
+</body> 
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ludang-225510017</title>
+</head>
+<body>
+    <div id="div1">
+        <p id="p1">Ini adalah paragraf</p>
+        <p id="p2">Ini adalah paragraf lain</p>
+    </div>
+    <script>
+        var para = document.createElement("p");
+        var node = document.createTextNode("ini adalah baru.");
+        para.appendChild(node);
+        var element = document.getElementById("div1");
+        element.appendChild("para");
+    </script>
+</body>
+</html>

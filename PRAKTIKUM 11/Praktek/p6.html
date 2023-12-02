@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ludang-225510017</title>
+</head>
+<body>
+    <h2>Javascripts addEvntListner</h2>
+    <p>This example the addEvntListner() method to attach a click even to a buton</p>
+    <button id="tombol">Try it</button>
+    <p id="demo"></p>
+    <script>
+        document.getElementById("tombol").addEventListener("click",displayDate);
+
+        function displayDate() {
+            document.getElementById("demo").innerHTML = Date();
+        }
+    </script>
+</body>
+</html>

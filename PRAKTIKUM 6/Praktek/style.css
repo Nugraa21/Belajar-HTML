@@ -1,0 +1,38 @@
+.container{
+    width: 50%;
+    margin: 0 auto;
+}
+span{
+    display: block;
+    margin-bottom: 20px;
+}
+.success{
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 0;
+    font-size: 14px;
+    border: 2px solid black;
+}
+b{
+    color: green;
+}
+
+
+div.main{
+    width: 306px;
+    padding: 10px 50px 30px;
+    border: 2px solid gray;
+    float: left;
+    margin-top: 15px
+}
+input[type=text],
+input[type=email],
+input[type=password],
+input[type=select]{
+    width: 96%;
+    height: 25px;
+    border: 1px solid;
+}
+input[type=radio]{
+    
+}

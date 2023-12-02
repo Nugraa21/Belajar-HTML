@@ -1,0 +1,30 @@
+table{
+    font-family:  Arial;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+td, th {
+    border: 1px solid;
+    padding: 6x;
+}
+tr:nth-child(even){background-color: crimson;}
+tr:hover{background-color: aqua;}
+th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: green;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
