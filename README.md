@@ -76,9 +76,9 @@ di sini saya mengumpulkan semua modul praktikum Web clayen saya selama 1 semeste
 
 <h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
 
-- [Kembali ke atas](#menu)
-
 ## Pertemuan1
+
+- [Kembali ke atas](#menu)
 
 ## praktek
 
@@ -122,9 +122,9 @@ di sini saya mengumpulkan semua modul praktikum Web clayen saya selama 1 semeste
 
 <h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
 
-- [Kembali ke atas](#menu)
-
 ## Pertemuan2
+
+- [Kembali ke atas](#menu)
 
 ## praktek
 
@@ -251,9 +251,9 @@ di sini saya mengumpulkan semua modul praktikum Web clayen saya selama 1 semeste
 
 <h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
 
-- [Kembali ke atas](#menu)
-
 ## Pertemuan3
+
+- [Kembali ke atas](#menu)
 
 ## praktek
 
@@ -384,9 +384,9 @@ di sini saya mengumpulkan semua modul praktikum Web clayen saya selama 1 semeste
 
 <h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
 
-- [Kembali ke atas](#menu)
-
 ## Pertemuan4
+
+- [Kembali ke atas](#menu)
 
 ## praktek
 
@@ -530,9 +530,9 @@ body {
 
 <h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
 
-- [Kembali ke atas](#menu)
-
 ## Pertemuan5
+
+- [Kembali ke atas](#menu)
 
 ## praktek ( PHP )
 
@@ -691,9 +691,9 @@ input[type=text]{
 
 <h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
 
-- [Kembali ke atas](#menu)
-
 ## Pertemuan6(
+
+- [Kembali ke atas](#menu)
 
 ## praktek ( PHP )
 
@@ -1025,9 +1025,9 @@ input[type=submit]:hover {
 
 <h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
 
-- [Kembali ke atas](#menu)
-
 ## Pertemuan7
+
+- [Kembali ke atas](#menu)
 
 ## praktek ( Tabel dan Bentuk border )
 
@@ -1185,9 +1185,9 @@ th{
 
 <h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
 
-- [Kembali ke atas](#menu)
-
 ## Pertemuan8
+
+- [Kembali ke atas](#menu)
 
 ## praktek ( Media Audio , Video )
 
@@ -1237,9 +1237,9 @@ th{
 
 <h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
 
-- [Kembali ke atas](#menu)
-
 ## Pertemuan9
+
+- [Kembali ke atas](#menu)
 
 ## praktek ( Java scripts )
 
@@ -1393,9 +1393,9 @@ function myFunction() {
 
 <h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
 
-- [Kembali ke atas](#menu)
-
 ## Pertemuan10
+
+- [Kembali ke atas](#menu)
 
 ## praktek ( Java scripts )
 
@@ -1587,9 +1587,9 @@ function myFunction() {
 
 <h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
 
-- [Kembali ke atas](#menu)
-
 ## Pertemuan11
+
+- [Kembali ke atas](#menu)
 
 ## praktek ( Java scripts ) DOM
 
@@ -1920,9 +1920,9 @@ Php extensen
 
 <h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
 
-- [Kembali ke atas](#menu)
-
 ## Pertemuan12
+
+- [Kembali ke atas](#menu)
 
 ## praktek
 
@@ -2047,9 +2047,9 @@ header,section,footer,aside,nav,article,figure,figcaption{
 
 <h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
 
-- [Kembali ke atas](#menu)
-
 ## Pertemuan13
+
+- [Kembali ke atas](#menu)
 
 ## praktek
 
@@ -2322,9 +2322,9 @@ Hasil dari Studi kasus
 
 <h1 align="center">PRAKTIKUM PERMOGRAMAN</h1>
 
-- [Kembali ke atas](#menu)
-
 ## Pertemuan14
+
+- [Kembali ke atas](#menu)
 
 ## praktek
 
