@@ -1,3 +1,6 @@
+- [Github](https://github.com/Nugraa21/Belajar-HTML)
+- [Share LINK](https://nugraa21.github.io/Belajar-HTML/)
+
 ## menu
 
 > Klick untuk menuju ke contoh kode program yang sudah saya sediakan
