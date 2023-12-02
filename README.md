@@ -4,20 +4,20 @@
 
 > Lalu bila ingin ke atas klick ( kembali ke atas )
 
-- [pertemuan 1](#pertemuan1)
-- [pertemuan 2](#pertemuan2)
-- [pertemuan 3](#pertemuan3)
-- [pertemuan 4](#pertemuan4)
-- [pertemuan 5](#pertemuan5)
-- [pertemuan 6](#pertemuan6)
-- [pertemuan 7](#pertemuan7)
-- [pertemuan 8](#pertemuan8)
-- [pertemuan 9](#pertemuan9)
-- [pertemuan 10](#pertemuan10)
-- [pertemuan 11](#pertemuan11)
-- [pertemuan 12](#pertemuan12)
-- [pertemuan 13](#pertemuan13)
-- [pertemuan 14](#pertemuan14)
+- [pertemuan 1](#pertemuan1) HTML Dasar
+- [pertemuan 2](#pertemuan2) Tag dasar HTML
+- [pertemuan 3](#pertemuan3) Pengenalan dasar CSS
+- [pertemuan 4](#pertemuan4) Layout websait dengan CSS
+- [pertemuan 5](#pertemuan5) Form html ( PHP )
+- [pertemuan 6](#pertemuan6) Form html ( PHP )
+- [pertemuan 7](#pertemuan7) Dasar pembuatan Tabel
+- [pertemuan 8](#pertemuan8) Html MEDIA
+- [pertemuan 9](#pertemuan9) Javascripts ( JS)
+- [pertemuan 10](#pertemuan10) Javascripts Array objeck Struckture control & funsi
+- [pertemuan 11](#pertemuan11) DOM dan javascripts FORM
+- [pertemuan 12](#pertemuan12) Studi kasus layout HTML & CSS
+- [pertemuan 13](#pertemuan13) Studi kasus layout HTML & CSS
+- [pertemuan 14](#pertemuan14) SERVER !!
 
 ##
 
